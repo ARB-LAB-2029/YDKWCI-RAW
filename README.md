@@ -26,4 +26,3 @@
 If the link dies, it will be reborn elsewhere.
 
 `STATUS: UNCONTROLLED / PUBLIC DOMAIN`
-`arottenbit'
