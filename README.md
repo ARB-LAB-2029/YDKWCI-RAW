@@ -1,4 +1,5 @@
-# 🎹 YOU DON'T KNOW WHAT CHIPTUNE IS - RAW
+# YOU DON'T KNOW WHAT CHIPTUNE IS - RAW
+### by arottenbit
 
 > **NO COPYRIGHT. NO MASTERS. NO BULLSHIT.**
 > This music is free. Copy it, upload it, destroy it, share it.
@@ -25,3 +26,4 @@
 If the link dies, it will be reborn elsewhere.
 
 `STATUS: UNCONTROLLED / PUBLIC DOMAIN`
+`arottenbit'
